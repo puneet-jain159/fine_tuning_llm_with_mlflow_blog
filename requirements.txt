@@ -1,0 +1,14 @@
+accelerate
+transformers[torch]
+datasets>=2.10.0,<3
+deepspeed
+peft
+einops
+bitsandbytes
+tiktoken
+click>=8.0.4,<9
+spacy
+langchain[spacy]
+chromadb==0.3.22
+psutil
+pynvml
